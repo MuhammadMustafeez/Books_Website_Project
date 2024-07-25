@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+}
+
+figure img {
+    width: 200px;
+    margin-top: -20px;
+}
+
+
+/* Navbar */
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    top: 0;
+}
+
+
+/* Home */
